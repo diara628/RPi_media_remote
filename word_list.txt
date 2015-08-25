@@ -1,0 +1,14 @@
+voice
+command
+start
+stop
+and
+volume
+up
+down
+play
+pause
+launch
+skip
+forward
+backwards
